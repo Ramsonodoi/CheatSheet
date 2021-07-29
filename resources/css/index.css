@@ -1,0 +1,25 @@
+body{
+    background-color: paleturquoise;
+    font-family: Arial, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: orange;
+}
+
+table {
+    border: 3px solid orange;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: orange;
+  }
+  
+  td {
+    border-top: 2px solid orange;
+  }
